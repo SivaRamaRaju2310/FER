@@ -38,6 +38,10 @@ python app.py
 - The **FER2013** dataset is used for training the emotion detection model.
 - Path: `E:\FD_ERS_TEAM`
 
+## Model File
+- Download the pre-trained model from the following link:
+  [Model File](https://drive.google.com/file/d/1xF9qwPbuQn0jkbEwMfWBhp9Y-dahtVo-/view?usp=drivesdk)
+
 ## How to Upload This Project to GitHub Professionally
 ### 1. Initialize a Git Repository
 ```bash
